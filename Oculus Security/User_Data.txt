@@ -1,0 +1,2 @@
+Time,RtouchPos_X,RtouchPos_Y,RtouchPos_Z,RtouchRot_X,RtouchRot_Y,RtouchRot_Z,LtouchPos_X,LtouchPos_Y,LtouchPos_Z,LtouchRot_X,LtouchRot_Y,LtouchRot_Z,CameraPos_X,CameraPos_Y,CameraPos_Z,CameraRot_X,CameraRot_Y,CameraRot_Z
+
